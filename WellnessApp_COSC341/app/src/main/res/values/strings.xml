@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WellnessApp_COSC341</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Calendar</string>
+    <string name="title_notifications">Appointment</string>
+    <string name="title_activity_main_book_appointment">MainBookAppointment</string>
+    <string name="book_now">Book now!</string>
+    <string name="unc_214_9am_4pm">UNC 214 9am - 4pm</string>
+    <string name="disability_resource_centre">Disability Resource Centre</string>
+    <string name="unc_337_9am_4pm">UNC 337 9am - 4pm</string>
+    <string name="unc_109_9am_4pm">UNC 109 9am - 4pm</string>
+    <string name="health_and_wellness">Health and Wellness</string>
+    <string name="women_s_resource_centre">Women\'s Resource Centre</string>
+    <string name="call_us">Call Us!</string>
+</resources>
